@@ -1,8 +1,9 @@
 {
-  "name": "fennec-broken-site-reporter",
-  "fullName": "fennec-broken-site-reporter",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "fennec-broken-site-reporter", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "fennec-broken-site-reporter", 
+    "id": "jid1-azgBfgCb5gOJaw", 
+    "description": "a basic add-on"
 }
